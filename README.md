@@ -1,0 +1,2 @@
+# myBashAlias
+my bash alias
